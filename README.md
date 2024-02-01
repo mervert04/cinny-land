@@ -1,4 +1,6 @@
 **Sweet Cinnny Land**
+**Contributors:**
+Aigerim Baimukhanbetova, Meruyert Toleyeva
 
 **Overview:**
 "Sweet Cinnny Land" is an engaging platformer game developed using PyCharm by a collaborative effort of a group. The game features a main character (MC) that embarks on an adventurous journey through a whimsical land filled with sweet treats, obstacles, and challenges.
